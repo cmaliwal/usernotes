@@ -15,11 +15,11 @@ This is a UserNotes application created using Django REST Framework. It provides
 #### 🔧 Steps
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/cmaliwal/usernotes.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project_name]
+   cd usernotes
    ```
 3. Create a virtual environment:
    ```bash
@@ -50,11 +50,11 @@ This is a UserNotes application created using Django REST Framework. It provides
 #### 🔧 Steps
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/cmaliwal/usernotes.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [project_name]
+   cd usernotes
    ```
 3. Build and run the Docker container:
    ```bash
@@ -105,5 +105,3 @@ With docker:
 docker-compose exec web python manage.py migrate
 ```
 ---
-
-**Note**: Replace `[repository_url]` and `[project_name]` with the actual URL of your repository and the name of your project directory.
